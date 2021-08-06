@@ -1,5 +1,9 @@
 # OpenClassrooms SCSS Project
 
+## Live version of site online:
+
+[github pages](https://timcombs.github.io/jared_666_scss/)
+
 ## Technolgies Used
 
 - SCSS
